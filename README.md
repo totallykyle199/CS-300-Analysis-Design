@@ -2,7 +2,7 @@
 
 -What was the problem you were solving in the projects for this course?
 
- -The main projects involveed solving problems related to data structures and algorithms. These involved analyzing the run-time and memory usage of data structures and sorting and printing a list of courses for a computer science program.
+ - The main projects involveed solving problems related to data structures and algorithms. These involved analyzing the run-time and memory usage of data structures and sorting and printing a list of courses for a computer science program.
 
  -How did you approach the problem? Consider why data structures are important to understand.
 
